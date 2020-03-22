@@ -50,7 +50,7 @@ print 'Page generated in : '. round(($finish - $start) * 10000, 2) .' <small>ms<
 	</a>
   		</div>
 		<div class="card-body">
-			<p class="card-text"><iframe width="600" height="400" src="http://192.168.0.100:5000/" frameborder="2" allow="autoplay" allowfullscreen></iframe></p>
+			<p class="card-text"><iframe src="http://192.168.0.100:5000/" allow="autoplay" allowfullscreen></iframe></p>
 			
 		</div>
 
