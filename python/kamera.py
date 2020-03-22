@@ -56,7 +56,7 @@ class VideoCamera(object):
     def motion(self):
         #winName = "Movement Indicator"
         #cv2.namedWindow(winName)
-        time.sleep(.1)
+        #time.sleep(.1)
         batas = 129000
 
         cek_waktu = datetime.now().strftime('%Ss')
@@ -77,7 +77,7 @@ class VideoCamera(object):
                 print(gambar)
                 dataKiriman = [('kamera','kamera satu'),('tanggal',jam),('gambar',gambar)]
                 dataKiriman = urllib.urlencode(dataKiriman)
-                path='http://192.168.0.100/kamera_pengawas/python/penerima.php'
+                path='http://192.168.0.100/kamera-pengawas/python-alfath/penerima.php'
                 req = urllib2.Request(path, dataKiriman)
                 page= urllib2.urlopen(req).read()
                 #cv2.imshow(winName, self.frame)
