@@ -1,5 +1,5 @@
 <?php
-require_once "../config/database.php";
+require_once "../koneksi.php";
            // ambil data hasil submit dari form
             $kamera       = mysqli_real_escape_string($mysqli, trim($_POST['kamera']));
             $tanggal      = mysqli_real_escape_string($mysqli, trim($_POST['tanggal']));
