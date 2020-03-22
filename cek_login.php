@@ -3,7 +3,7 @@
 session_start();
 
 // menghubungkan dengan koneksi
-include 'koneksi.php';
+include '../config/koneksi.php';
 include 'ip2.php';
 // menangkap data yang dikirim dari form
 $username = $_POST['username'];
