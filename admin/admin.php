@@ -31,7 +31,7 @@ print 'Page generated in : '. round(($finish - $start) * 10000, 2) .' <small>ms<
   }
    .tampil {
         margin: 100px auto;
-        width: 600px;
+        width: 1000px;
 		padding: 10px;
 		
         
