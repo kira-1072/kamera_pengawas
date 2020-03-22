@@ -9,7 +9,7 @@ from upload import UploadGoogleDrive
 app = Flask(__name__)
 vs = VideoCamera().start()
 #gd = UploadGoogleDrive().start()
-ipc= IPCAM().start()
+#ipc= IPCAM().start()
 
 @app.route('/')
 def index():
