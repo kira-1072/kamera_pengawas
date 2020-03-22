@@ -1,5 +1,5 @@
 <?php
-$dir = "../pictures/";
+$dir = "pictures/";
 
 // Sort in ascending order - this is default
 $a = scandir($dir);
