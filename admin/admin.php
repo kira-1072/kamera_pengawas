@@ -65,7 +65,7 @@ print 'Page generated in : '. round(($finish - $start) * 10000, 2) .' <small>ms<
        				 </a>
 					</div>
 					<div class="col-1">
-					<a href="download.php?file=secret.aes">
+					<a href="download/download.php">
         			  <span class="glyphicon glyphicon-download-alt"></span>
        				 </a>
 					</div>
