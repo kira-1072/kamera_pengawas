@@ -65,7 +65,7 @@ print 'Page generated in : '. round(($finish - $start) * 10000, 2) .' <small>ms<
        				 </a>
 					</div>
 					<div class="col-1">
-					<a href="picture/view.php">
+					<a href="pictures/view.php">
         			  <span class="glyphicon glyphicon-download-alt"></span>
        				 </a>
 					</div>
