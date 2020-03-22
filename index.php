@@ -40,7 +40,7 @@
         <div class="card card-signin my-5">
           <div class="card-body">
             <h5 class="card-title text-center">Login</h5>
-            <form method="post" name="login" class="form-signin" action="cek_login.php">
+            <form method="post" name="login" class="form-signin" action="/config/cek_login.php">
               <div class="form-label-group">
                 <input type="text" name="username" class="form-control" placeholder="Username" required autofocus>
                 <label for="inputEmail">Username</label>
