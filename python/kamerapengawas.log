@@ -1,0 +1,771 @@
+2018-04-12 08:56:10,262  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 08:56:38,490 127.0.0.1 - - [12/Apr/2018 08:56:38] "GET / HTTP/1.1" 200 -
+2018-04-12 08:56:38,650 127.0.0.1 - - [12/Apr/2018 08:56:38] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:56:39,010 127.0.0.1 - - [12/Apr/2018 08:56:39] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-12 08:56:49,556 127.0.0.1 - - [12/Apr/2018 08:56:49] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:31,898  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 08:58:34,230 127.0.0.1 - - [12/Apr/2018 08:58:34] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:34,247 127.0.0.1 - - [12/Apr/2018 08:58:34] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:35,363 127.0.0.1 - - [12/Apr/2018 08:58:35] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:35,384 127.0.0.1 - - [12/Apr/2018 08:58:35] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:39,545 127.0.0.1 - - [12/Apr/2018 08:58:39] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:39,563 127.0.0.1 - - [12/Apr/2018 08:58:39] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:42,235 127.0.0.1 - - [12/Apr/2018 08:58:42] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:42,254 127.0.0.1 - - [12/Apr/2018 08:58:42] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:42,827 127.0.0.1 - - [12/Apr/2018 08:58:42] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:42,844 127.0.0.1 - - [12/Apr/2018 08:58:42] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 08:58:43,238 127.0.0.1 - - [12/Apr/2018 08:58:43] "GET / HTTP/1.1" 200 -
+2018-04-12 08:58:43,256 127.0.0.1 - - [12/Apr/2018 08:58:43] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:50,659  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:04:51,995 127.0.0.1 - - [12/Apr/2018 09:04:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:52,014 127.0.0.1 - - [12/Apr/2018 09:04:52] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:52,851 127.0.0.1 - - [12/Apr/2018 09:04:52] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:52,870 127.0.0.1 - - [12/Apr/2018 09:04:52] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:53,054 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:53,071 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:53,579 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:53,597 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:53,974 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:53,989 127.0.0.1 - - [12/Apr/2018 09:04:53] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:54,136 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:54,154 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:54,302 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:54,321 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:04:54,461 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET / HTTP/1.1" 200 -
+2018-04-12 09:04:54,479 127.0.0.1 - - [12/Apr/2018 09:04:54] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:05:59,454  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:05:59,851 127.0.0.1 - - [12/Apr/2018 09:05:59] "GET / HTTP/1.1" 200 -
+2018-04-12 09:05:59,869 127.0.0.1 - - [12/Apr/2018 09:05:59] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:11:29,998 127.0.0.1 - - [12/Apr/2018 09:11:29] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:13:00,981  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:13:02,834 127.0.0.1 - - [12/Apr/2018 09:13:02] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:13:03,916 127.0.0.1 - - [12/Apr/2018 09:13:03] "GET / HTTP/1.1" 200 -
+2018-04-12 09:13:03,932 127.0.0.1 - - [12/Apr/2018 09:13:03] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:13:39,433  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:13:40,798 127.0.0.1 - - [12/Apr/2018 09:13:40] "GET / HTTP/1.1" 200 -
+2018-04-12 09:13:40,813 127.0.0.1 - - [12/Apr/2018 09:13:40] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:15:12,882  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:15:15,265 127.0.0.1 - - [12/Apr/2018 09:15:15] "GET / HTTP/1.1" 200 -
+2018-04-12 09:15:15,295 127.0.0.1 - - [12/Apr/2018 09:15:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:15:15,860 127.0.0.1 - - [12/Apr/2018 09:15:15] "GET / HTTP/1.1" 200 -
+2018-04-12 09:15:15,879 127.0.0.1 - - [12/Apr/2018 09:15:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:25:54,374  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:25:55,385 127.0.0.1 - - [12/Apr/2018 09:25:55] "GET / HTTP/1.1" 200 -
+2018-04-12 09:25:55,403 127.0.0.1 - - [12/Apr/2018 09:25:55] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:46,284  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:28:48,965 127.0.0.1 - - [12/Apr/2018 09:28:48] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:49,056 127.0.0.1 - - [12/Apr/2018 09:28:49] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:49,083 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:50,052 127.0.0.1 - - [12/Apr/2018 09:28:50] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:50,070 127.0.0.1 - - [12/Apr/2018 09:28:50] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:50,074 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:50,843 127.0.0.1 - - [12/Apr/2018 09:28:50] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:50,862 127.0.0.1 - - [12/Apr/2018 09:28:50] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:50,865 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:51,006 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:51,025 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:51,028 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:51,187 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:51,205 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:51,208 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:51,349 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:51,368 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:51,371 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:51,532 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:51,547 127.0.0.1 - - [12/Apr/2018 09:28:51] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:51,550 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:28:53,856 127.0.0.1 - - [12/Apr/2018 09:28:53] "GET / HTTP/1.1" 200 -
+2018-04-12 09:28:53,872 127.0.0.1 - - [12/Apr/2018 09:28:53] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:28:53,875 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:29:13,129 127.0.0.1 - - [12/Apr/2018 09:29:13] "GET / HTTP/1.1" 200 -
+2018-04-12 09:29:13,145 127.0.0.1 - - [12/Apr/2018 09:29:13] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:29:13,148 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+AttributeError: 'VideoCamera' object has no attribute 'get_frame'
+2018-04-12 09:30:16,446  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:30:18,437 127.0.0.1 - - [12/Apr/2018 09:30:18] "GET / HTTP/1.1" 200 -
+2018-04-12 09:30:18,460 127.0.0.1 - - [12/Apr/2018 09:30:18] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:30:18,464 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+TypeError: get_frame() takes no arguments (1 given)
+2018-04-12 09:30:19,052 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET / HTTP/1.1" 200 -
+2018-04-12 09:30:19,069 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:30:19,072 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+TypeError: get_frame() takes no arguments (1 given)
+2018-04-12 09:30:19,211 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET / HTTP/1.1" 200 -
+2018-04-12 09:30:19,228 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:30:19,231 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+TypeError: get_frame() takes no arguments (1 given)
+2018-04-12 09:30:19,379 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET / HTTP/1.1" 200 -
+2018-04-12 09:30:19,397 127.0.0.1 - - [12/Apr/2018 09:30:19] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:30:19,400 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+TypeError: get_frame() takes no arguments (1 given)
+2018-04-12 09:37:27,246 127.0.0.1 - - [12/Apr/2018 09:37:27] "GET / HTTP/1.1" 200 -
+2018-04-12 09:37:27,262 127.0.0.1 - - [12/Apr/2018 09:37:27] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:37:27,266 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 15, in bacakamera
+    frame = kamera.get_frame()
+TypeError: get_frame() takes no arguments (1 given)
+2018-04-12 09:52:40,214  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:52:43,888 127.0.0.1 - - [12/Apr/2018 09:52:43] "GET / HTTP/1.1" 200 -
+2018-04-12 09:52:43,972 127.0.0.1 - - [12/Apr/2018 09:52:43] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:52:44,713 127.0.0.1 - - [12/Apr/2018 09:52:44] "GET / HTTP/1.1" 200 -
+2018-04-12 09:52:44,732 127.0.0.1 - - [12/Apr/2018 09:52:44] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:52:45,179 127.0.0.1 - - [12/Apr/2018 09:52:45] "GET / HTTP/1.1" 200 -
+2018-04-12 09:52:45,198 127.0.0.1 - - [12/Apr/2018 09:52:45] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:52:54,043 127.0.0.1 - - [12/Apr/2018 09:52:54] "GET / HTTP/1.1" 200 -
+2018-04-12 09:52:54,061 127.0.0.1 - - [12/Apr/2018 09:52:54] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:53:54,484  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:55:49,169  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 09:55:50,888 127.0.0.1 - - [12/Apr/2018 09:55:50] "GET / HTTP/1.1" 200 -
+2018-04-12 09:55:50,906 127.0.0.1 - - [12/Apr/2018 09:55:50] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:55:51,959 127.0.0.1 - - [12/Apr/2018 09:55:51] "GET / HTTP/1.1" 200 -
+2018-04-12 09:55:51,975 127.0.0.1 - - [12/Apr/2018 09:55:51] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:55:52,413 127.0.0.1 - - [12/Apr/2018 09:55:52] "GET / HTTP/1.1" 200 -
+2018-04-12 09:55:52,432 127.0.0.1 - - [12/Apr/2018 09:55:52] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:55:52,813 127.0.0.1 - - [12/Apr/2018 09:55:52] "GET / HTTP/1.1" 200 -
+2018-04-12 09:55:52,832 127.0.0.1 - - [12/Apr/2018 09:55:52] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:55:53,367 127.0.0.1 - - [12/Apr/2018 09:55:53] "GET / HTTP/1.1" 200 -
+2018-04-12 09:55:53,384 127.0.0.1 - - [12/Apr/2018 09:55:53] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 09:56:02,164 127.0.0.1 - - [12/Apr/2018 09:56:02] "GET / HTTP/1.1" 200 -
+2018-04-12 09:56:02,179 127.0.0.1 - - [12/Apr/2018 09:56:02] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 10:00:55,083  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:01:04,177 127.0.0.1 - - [12/Apr/2018 10:01:04] "GET / HTTP/1.1" 200 -
+2018-04-12 10:01:04,194 127.0.0.1 - - [12/Apr/2018 10:01:04] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 10:02:10,339  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:02:12,203 127.0.0.1 - - [12/Apr/2018 10:02:12] "GET / HTTP/1.1" 200 -
+2018-04-12 10:02:12,221 127.0.0.1 - - [12/Apr/2018 10:02:12] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 10:02:12,825 127.0.0.1 - - [12/Apr/2018 10:02:12] "GET / HTTP/1.1" 200 -
+2018-04-12 10:02:12,842 127.0.0.1 - - [12/Apr/2018 10:02:12] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 10:02:13,295 127.0.0.1 - - [12/Apr/2018 10:02:13] "GET / HTTP/1.1" 200 -
+2018-04-12 10:02:13,316 127.0.0.1 - - [12/Apr/2018 10:02:13] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 10:03:02,771  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:03:04,151 127.0.0.1 - - [12/Apr/2018 10:03:04] "GET / HTTP/1.1" 200 -
+2018-04-12 10:03:04,371 127.0.0.1 - - [12/Apr/2018 10:03:04] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:04:18,218 127.0.0.1 - - [12/Apr/2018 10:04:18] "GET / HTTP/1.1" 200 -
+2018-04-12 10:04:18,441 127.0.0.1 - - [12/Apr/2018 10:04:18] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:04:24,024  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:04:24,730 127.0.0.1 - - [12/Apr/2018 10:04:24] "GET / HTTP/1.1" 200 -
+2018-04-12 10:04:24,954 127.0.0.1 - - [12/Apr/2018 10:04:24] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:21:58,863  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:22:41,921 127.0.0.1 - - [12/Apr/2018 10:22:41] "GET / HTTP/1.1" 200 -
+2018-04-12 10:22:42,148 127.0.0.1 - - [12/Apr/2018 10:22:42] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:26:23,570 127.0.0.1 - - [12/Apr/2018 10:26:23] "GET / HTTP/1.1" 200 -
+2018-04-12 10:26:23,805 127.0.0.1 - - [12/Apr/2018 10:26:23] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:26:28,224  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:26:31,905 127.0.0.1 - - [12/Apr/2018 10:26:31] "GET / HTTP/1.1" 200 -
+2018-04-12 10:26:32,128 127.0.0.1 - - [12/Apr/2018 10:26:32] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:27:09,528  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:27:11,281 127.0.0.1 - - [12/Apr/2018 10:27:11] "GET / HTTP/1.1" 200 -
+2018-04-12 10:27:11,513 127.0.0.1 - - [12/Apr/2018 10:27:11] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:27:36,449  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:27:37,601 127.0.0.1 - - [12/Apr/2018 10:27:37] "GET / HTTP/1.1" 200 -
+2018-04-12 10:27:37,826 127.0.0.1 - - [12/Apr/2018 10:27:37] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:28:30,021  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:28:31,905 127.0.0.1 - - [12/Apr/2018 10:28:31] "GET / HTTP/1.1" 200 -
+2018-04-12 10:28:33,935 127.0.0.1 - - [12/Apr/2018 10:28:33] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:28:56,773  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:28:58,269 127.0.0.1 - - [12/Apr/2018 10:28:58] "GET / HTTP/1.1" 200 -
+2018-04-12 10:28:58,307 127.0.0.1 - - [12/Apr/2018 10:28:58] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:29:58,756  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:30:00,645 127.0.0.1 - - [12/Apr/2018 10:30:00] "GET / HTTP/1.1" 200 -
+2018-04-12 10:30:00,666 127.0.0.1 - - [12/Apr/2018 10:30:00] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:30:39,911  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:30:43,536 127.0.0.1 - - [12/Apr/2018 10:30:43] "GET / HTTP/1.1" 200 -
+2018-04-12 10:30:43,757 127.0.0.1 - - [12/Apr/2018 10:30:43] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 10:46:56,871  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 10:47:04,291 127.0.0.1 - - [12/Apr/2018 10:47:04] "GET / HTTP/1.1" 200 -
+2018-04-12 10:47:04,514 127.0.0.1 - - [12/Apr/2018 10:47:04] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 12:11:22,275  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 12:11:46,215 127.0.0.1 - - [12/Apr/2018 12:11:46] "GET / HTTP/1.1" 200 -
+2018-04-12 12:11:46,467 127.0.0.1 - - [12/Apr/2018 12:11:46] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 12:11:58,651 127.0.0.1 - - [12/Apr/2018 12:11:58] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-12 12:26:01,607  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 12:26:08,759 127.0.0.1 - - [12/Apr/2018 12:26:08] "GET / HTTP/1.1" 200 -
+2018-04-12 12:26:08,982 127.0.0.1 - - [12/Apr/2018 12:26:08] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 12:47:53,581  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 12:49:32,560  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 12:49:55,735 127.0.0.1 - - [12/Apr/2018 12:49:55] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 12:49:55,762 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 76, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-12 12:49:55,853 127.0.0.1 - - [12/Apr/2018 12:49:55] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-12 12:50:39,321  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 12:50:46,118 127.0.0.1 - - [12/Apr/2018 12:50:46] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 12:57:33,923 127.0.0.1 - - [12/Apr/2018 12:57:33] "GET / HTTP/1.1" 200 -
+2018-04-12 12:57:36,236 127.0.0.1 - - [12/Apr/2018 12:57:36] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 12:57:44,993 127.0.0.1 - - [12/Apr/2018 12:57:44] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 17:43:25,704  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 17:43:28,379 127.0.0.1 - - [12/Apr/2018 17:43:28] "GET / HTTP/1.1" 200 -
+2018-04-12 17:43:28,541 127.0.0.1 - - [12/Apr/2018 17:43:28] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 17:43:28,568 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 78, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-12 17:43:28,604 127.0.0.1 - - [12/Apr/2018 17:43:28] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-12 17:43:32,813 127.0.0.1 - - [12/Apr/2018 17:43:32] "GET / HTTP/1.1" 200 -
+2018-04-12 17:43:32,833 127.0.0.1 - - [12/Apr/2018 17:43:32] "GET /video_feed HTTP/1.1" 500 -
+2018-04-12 17:43:32,836 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 78, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-12 17:46:28,796  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-12 17:46:32,782 127.0.0.1 - - [12/Apr/2018 17:46:32] "GET / HTTP/1.1" 200 -
+2018-04-12 17:46:33,036 127.0.0.1 - - [12/Apr/2018 17:46:33] "GET /video_feed HTTP/1.1" 200 -
+2018-04-12 21:51:11,286  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 07:38:46,279  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 07:39:06,493 127.0.0.1 - - [13/Apr/2018 07:39:06] "GET / HTTP/1.1" 200 -
+2018-04-13 07:39:06,771 127.0.0.1 - - [13/Apr/2018 07:39:06] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:04:30,774  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:04:46,823 127.0.0.1 - - [13/Apr/2018 09:04:46] "GET / HTTP/1.1" 200 -
+2018-04-13 09:04:47,079 127.0.0.1 - - [13/Apr/2018 09:04:47] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:05:38,163 127.0.0.1 - - [13/Apr/2018 09:05:38] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-13 09:05:41,181  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:07:03,692  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:07:59,691 127.0.0.1 - - [13/Apr/2018 09:07:59] "GET / HTTP/1.1" 200 -
+2018-04-13 09:07:59,918 127.0.0.1 - - [13/Apr/2018 09:07:59] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:20:35,110  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:20:56,304 127.0.0.1 - - [13/Apr/2018 09:20:56] "GET / HTTP/1.1" 200 -
+2018-04-13 09:20:56,524 127.0.0.1 - - [13/Apr/2018 09:20:56] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:21:10,130  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:21:11,707 127.0.0.1 - - [13/Apr/2018 09:21:11] "GET / HTTP/1.1" 200 -
+2018-04-13 09:21:11,828 127.0.0.1 - - [13/Apr/2018 09:21:11] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:24:12,652  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:43:25,321  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2018-04-13 09:43:45,397 127.0.0.1 - - [13/Apr/2018 09:43:45] "GET / HTTP/1.1" 200 -
+2018-04-13 09:43:45,752 127.0.0.1 - - [13/Apr/2018 09:43:45] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:43:45,756 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 86, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:46:54,801  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:47:05,119 127.0.0.1 - - [13/Apr/2018 09:47:05] "GET / HTTP/1.1" 200 -
+2018-04-13 09:47:05,151 127.0.0.1 - - [13/Apr/2018 09:47:05] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:47:05,188 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:47:05,201 127.0.0.1 - - [13/Apr/2018 09:47:05] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-13 09:47:07,850 127.0.0.1 - - [13/Apr/2018 09:47:07] "GET / HTTP/1.1" 200 -
+2018-04-13 09:47:07,872 127.0.0.1 - - [13/Apr/2018 09:47:07] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:47:07,876 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:51:56,105  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:52:14,126 127.0.0.1 - - [13/Apr/2018 09:52:14] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:14,152 127.0.0.1 - - [13/Apr/2018 09:52:14] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:14,159 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:15,007 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:15,026 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:15,030 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:15,485 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:15,511 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:15,517 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:15,736 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:15,759 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:15,762 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:15,966 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:15,988 127.0.0.1 - - [13/Apr/2018 09:52:15] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:15,991 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:16,177 127.0.0.1 - - [13/Apr/2018 09:52:16] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:16,201 127.0.0.1 - - [13/Apr/2018 09:52:16] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:16,205 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:17,140 127.0.0.1 - - [13/Apr/2018 09:52:17] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:17,160 127.0.0.1 - - [13/Apr/2018 09:52:17] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:17,165 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:52:36,868  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:52:41,671 127.0.0.1 - - [13/Apr/2018 09:52:41] "GET / HTTP/1.1" 200 -
+2018-04-13 09:52:41,699 127.0.0.1 - - [13/Apr/2018 09:52:41] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:52:41,708 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:53:23,255 127.0.0.1 - - [13/Apr/2018 09:53:23] "GET / HTTP/1.1" 200 -
+2018-04-13 09:53:23,276 127.0.0.1 - - [13/Apr/2018 09:53:23] "GET /video_feed HTTP/1.1" 500 -
+2018-04-13 09:53:23,280 Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 260, in execute
+    for data in application_iter:
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wsgi.py", line 870, in __next__
+    return self._next()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/wrappers.py", line 82, in _iter_encoded
+    for item in iterable:
+  File "/var/www/html/kamera-pengawas/python_alfath/main.py", line 16, in bacakamera
+    frame = vs.baca()
+  File "/var/www/html/kamera-pengawas/python_alfath/kamera.py", line 83, in baca
+    ret, jpeg = cv2.imencode('.jpg', self.frame)
+error: /io/opencv/modules/imgcodecs/src/grfmt_base.cpp:140: error: (-10) Raw image encoder error: Empty JPEG image (DNL not supported) in function throwOnEror
+2018-04-13 09:53:29,452  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:53:49,278  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:53:55,871 127.0.0.1 - - [13/Apr/2018 09:53:55] "GET / HTTP/1.1" 200 -
+2018-04-13 09:53:56,099 127.0.0.1 - - [13/Apr/2018 09:53:56] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:54:16,870  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:54:20,808 127.0.0.1 - - [13/Apr/2018 09:54:20] "GET / HTTP/1.1" 200 -
+2018-04-13 09:54:20,929 127.0.0.1 - - [13/Apr/2018 09:54:20] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:57:14,379  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:57:36,535 127.0.0.1 - - [13/Apr/2018 09:57:36] "GET / HTTP/1.1" 200 -
+2018-04-13 09:57:36,660 127.0.0.1 - - [13/Apr/2018 09:57:36] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:58:00,173  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 09:58:14,873 127.0.0.1 - - [13/Apr/2018 09:58:14] "GET / HTTP/1.1" 200 -
+2018-04-13 09:58:15,006 127.0.0.1 - - [13/Apr/2018 09:58:15] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 09:59:30,065  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:00:07,442  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:00:22,131 127.0.0.1 - - [13/Apr/2018 10:00:22] "GET / HTTP/1.1" 200 -
+2018-04-13 10:00:22,252 127.0.0.1 - - [13/Apr/2018 10:00:22] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:00:41,753  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:00:45,742 127.0.0.1 - - [13/Apr/2018 10:00:45] "GET / HTTP/1.1" 200 -
+2018-04-13 10:00:45,872 127.0.0.1 - - [13/Apr/2018 10:00:45] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:01:22,829  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:01:31,934 127.0.0.1 - - [13/Apr/2018 10:01:31] "GET / HTTP/1.1" 200 -
+2018-04-13 10:01:32,059 127.0.0.1 - - [13/Apr/2018 10:01:32] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:02:16,652  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:02:34,213  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:02:37,842 127.0.0.1 - - [13/Apr/2018 10:02:37] "GET / HTTP/1.1" 200 -
+2018-04-13 10:02:37,992 127.0.0.1 - - [13/Apr/2018 10:02:37] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:03:41,954  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:03:45,319 127.0.0.1 - - [13/Apr/2018 10:03:45] "GET / HTTP/1.1" 200 -
+2018-04-13 10:03:45,452 127.0.0.1 - - [13/Apr/2018 10:03:45] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:04:41,016  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:05:26,084  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:07:23,716  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:07:48,739  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:07:54,481 127.0.0.1 - - [13/Apr/2018 10:07:54] "GET / HTTP/1.1" 200 -
+2018-04-13 10:07:54,618 127.0.0.1 - - [13/Apr/2018 10:07:54] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:09:53,785  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:10:18,991 127.0.0.1 - - [13/Apr/2018 10:10:18] "GET / HTTP/1.1" 200 -
+2018-04-13 10:10:19,112 127.0.0.1 - - [13/Apr/2018 10:10:19] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:10:48,001  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:10:57,415 127.0.0.1 - - [13/Apr/2018 10:10:57] "GET / HTTP/1.1" 200 -
+2018-04-13 10:10:57,537 127.0.0.1 - - [13/Apr/2018 10:10:57] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:12:40,978  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:12:56,897 127.0.0.1 - - [13/Apr/2018 10:12:56] "GET / HTTP/1.1" 200 -
+2018-04-13 10:12:57,023 127.0.0.1 - - [13/Apr/2018 10:12:57] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:17:39,758  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:17:56,705  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:18:59,714  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:19:45,879  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:19:58,676 127.0.0.1 - - [13/Apr/2018 10:19:58] "GET / HTTP/1.1" 200 -
+2018-04-13 10:19:58,798 127.0.0.1 - - [13/Apr/2018 10:19:58] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:20:34,769  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:22:50,038  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:23:02,522 127.0.0.1 - - [13/Apr/2018 10:23:02] "GET / HTTP/1.1" 200 -
+2018-04-13 10:23:02,646 127.0.0.1 - - [13/Apr/2018 10:23:02] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:23:42,083  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:24:19,526  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:24:34,632  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:24:59,878  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:26:14,508  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:26:32,433  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:28:53,672  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:31:06,554  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:31:39,102  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:31:51,811  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:32:07,898  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:32:31,316  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:33:06,329  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:33:57,055  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:40:39,777  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:43:14,523  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:44:13,976  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:44:22,940 127.0.0.1 - - [13/Apr/2018 10:44:22] "GET / HTTP/1.1" 200 -
+2018-04-13 10:44:23,068 127.0.0.1 - - [13/Apr/2018 10:44:23] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:44:49,779  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:44:55,978 127.0.0.1 - - [13/Apr/2018 10:44:55] "GET / HTTP/1.1" 200 -
+2018-04-13 10:44:56,102 127.0.0.1 - - [13/Apr/2018 10:44:56] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:48:03,639  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:48:24,517  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:52:15,249  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:52:40,189  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 10:53:59,429 127.0.0.1 - - [13/Apr/2018 10:53:59] "GET / HTTP/1.1" 200 -
+2018-04-13 10:53:59,552 127.0.0.1 - - [13/Apr/2018 10:53:59] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 10:59:29,505  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:00:28,271  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:20:04,170  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:20:43,375  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:22:24,794  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:22:31,984 127.0.0.1 - - [13/Apr/2018 11:22:31] "GET / HTTP/1.1" 200 -
+2018-04-13 11:22:32,110 127.0.0.1 - - [13/Apr/2018 11:22:32] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 11:27:23,120  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:28:27,411  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:29:14,329  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:30:42,955  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:30:56,683  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:31:11,330  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:32:38,855  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:33:02,535  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:33:37,372 127.0.0.1 - - [13/Apr/2018 11:33:37] "GET / HTTP/1.1" 200 -
+2018-04-13 11:33:37,492 127.0.0.1 - - [13/Apr/2018 11:33:37] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 11:34:08,700  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:34:23,811  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:34:31,819 127.0.0.1 - - [13/Apr/2018 11:34:31] "GET / HTTP/1.1" 200 -
+2018-04-13 11:34:31,942 127.0.0.1 - - [13/Apr/2018 11:34:31] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 11:35:02,448  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:35:20,118 127.0.0.1 - - [13/Apr/2018 11:35:20] "GET / HTTP/1.1" 200 -
+2018-04-13 11:35:20,250 127.0.0.1 - - [13/Apr/2018 11:35:20] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 11:36:55,294  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:36:59,054 127.0.0.1 - - [13/Apr/2018 11:36:59] "GET / HTTP/1.1" 200 -
+2018-04-13 11:36:59,179 127.0.0.1 - - [13/Apr/2018 11:36:59] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 11:37:40,117  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 11:37:44,184 127.0.0.1 - - [13/Apr/2018 11:37:44] "GET / HTTP/1.1" 200 -
+2018-04-13 11:37:44,308 127.0.0.1 - - [13/Apr/2018 11:37:44] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 12:40:35,157  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:40:58,439  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:42:07,041  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:42:29,782  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:42:48,104 127.0.0.1 - - [13/Apr/2018 12:42:48] "GET / HTTP/1.1" 200 -
+2018-04-13 12:42:48,234 127.0.0.1 - - [13/Apr/2018 12:42:48] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 12:48:25,600  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:49:37,689  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:50:25,280  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:50:43,060 127.0.0.1 - - [13/Apr/2018 12:50:43] "GET / HTTP/1.1" 200 -
+2018-04-13 12:50:43,192 127.0.0.1 - - [13/Apr/2018 12:50:43] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 12:51:05,430  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:51:05,918 127.0.0.1 - - [13/Apr/2018 12:51:05] "GET / HTTP/1.1" 200 -
+2018-04-13 12:51:06,042 127.0.0.1 - - [13/Apr/2018 12:51:06] "GET /video_feed HTTP/1.1" 200 -
+2018-04-13 12:53:17,089  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-13 12:53:24,703 127.0.0.1 - - [13/Apr/2018 12:53:24] "GET / HTTP/1.1" 200 -
+2018-04-13 12:53:24,834 127.0.0.1 - - [13/Apr/2018 12:53:24] "GET /video_feed HTTP/1.1" 200 -
+2018-04-14 00:01:45,554  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-14 00:01:56,594 127.0.0.1 - - [14/Apr/2018 00:01:56] "GET / HTTP/1.1" 200 -
+2018-04-14 00:01:56,723 127.0.0.1 - - [14/Apr/2018 00:01:56] "GET /video_feed HTTP/1.1" 200 -
+2018-04-14 00:03:14,432 127.0.0.1 - - [14/Apr/2018 00:03:14] "GET /favicon.ico HTTP/1.1" 404 -
+2018-04-14 01:46:48,199  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2018-04-14 01:47:06,495 127.0.0.1 - - [14/Apr/2018 01:47:06] "GET / HTTP/1.1" 200 -
+2018-04-14 01:47:06,617 127.0.0.1 - - [14/Apr/2018 01:47:06] "GET /video_feed HTTP/1.1" 200 -
